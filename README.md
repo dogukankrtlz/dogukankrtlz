@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan Hüseyin Kertlez</h1>
-<h3 align="center">I'm Computer</h3>
+<h3 align="center">I'm </h3>
 
 - 📫 How to reach me **dogukankertlez562@hotmail.com**
 
