@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan Kertlez</h1>
-<h3 align="center">I'm Computer Engineer</h3>
+
 
 - 🔭 I’m currently working on **Spring Boot Project**
 
