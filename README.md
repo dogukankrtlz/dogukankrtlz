@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Doğukan Kertlez</h1>
+<h1 align="center">Hi 👋</h1>
 
 
 - 🔭 I’m currently working on **Spring Boot Project**
