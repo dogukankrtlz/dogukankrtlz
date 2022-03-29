@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋</h1>
 
-
-- 🔭 I’m currently working on **Spring Boot Project**
-
-- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **dogukankertlez562@hotmail.com**
 
