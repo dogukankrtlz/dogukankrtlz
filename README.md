@@ -1,5 +1,4 @@
 
-<a href="https://dogukankrtlz.github.io/">My Personal Website</a>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dogukankrtlz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15491577) 
@@ -12,3 +11,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dogukankrtlz&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://dogukankrtlz.github.io/">My Personal Website</a>
