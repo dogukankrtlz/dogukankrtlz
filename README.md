@@ -10,10 +10,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 
 
----
 
-<!-- # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukankrtlz&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- -->
+
+
+
 ---
-<!-- <a href="https://dogukankrtlz.github.io/">My Personal Website</a> -->
